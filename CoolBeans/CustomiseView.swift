@@ -63,7 +63,7 @@ struct CustomiseView: View {
                     }
                 }
             }
-            
+             
             Section("Estimates") {
                 Text("**Caffeine:** \(caffeine)mg")
                 Text("**Calories:** \(calories)")

@@ -13,7 +13,7 @@ struct ContentView: View {
     var body: some View {
         MenuView()
             .environmentObject(menu)
-    }}
+    }} 
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

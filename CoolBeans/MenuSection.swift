@@ -14,3 +14,4 @@ struct MenuSection: Identifiable, Codable {
     let name: String
     let drinks: [Drink]
 }
+ 

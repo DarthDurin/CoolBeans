@@ -49,7 +49,7 @@ struct MenuView: View {
                 }
                 .padding(.horizontal)
             }
-            .navigationTitle("Add Drink")
+            .navigationTitle("Add Drinks")
         }
     }
 }

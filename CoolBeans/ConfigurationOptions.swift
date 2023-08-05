@@ -14,3 +14,4 @@ struct ConfigurationOptions: Identifiable, Codable, Hashable {
     
     static let none = ConfigurationOptions(id: UUID(), name: "None", calories: 0)
 }
+ 
